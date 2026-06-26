@@ -1945,7 +1945,7 @@ Benefits:
 
 ---
 
-# ✅ Verification Checklist
+# 40. ✅ Verification Checklist
 
 Before moving to **Part 3B**, verify the following:
 
@@ -1963,7 +1963,7 @@ Before moving to **Part 3B**, verify the following:
 
 ---
 
-# 🎯 Next Part
+# 41. 🎯 Next Part
 
 In **Part 3B**, you will configure the Jenkins Freestyle project:
 
