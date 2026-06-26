@@ -33,6 +33,10 @@
 * [16. Configure Firewall (Optional)](#16-configure-firewall-optional)
 * [17. Useful Commands](#17-useful-commands)
 
+* [👨‍💻 Author](#-author)
+
+<!-- Continue with the remaining sections... -->
+
 ---
 
 # 1. Introduction
@@ -731,21 +735,21 @@ ________________________________________________________________________________
 
 # 📖 Table of Contents
 
-* 18. Tomcat Configuration Files
-* 19. Tomcat Start, Stop & Restart
-* 20. Creating Global Commands
-* 21. Understanding the Manager Application
-* 22. Enable Tomcat Manager App
-* 23. Configure Tomcat Users
-* 24. Access the Manager Application
-* 25. Understanding Host Manager
-* 26. Enable Host Manager
-* 27. Deploy WAR File Manually
-* 28. Verify Deployment
-* 29. Tomcat Log Files
-* 30. Common Administration Commands
-* 31. Common Mistakes
-* 32. Troubleshooting
+* [18. Tomcat Configuration Files](#18-tomcat-configuration-files)
+* [19. Tomcat Start, Stop & Restart](#19-tomcat-start-stop--restart)
+* [20. Creating Global Commands](#20-creating-global-commands)
+* [21. Understanding the Manager Application](#21-understanding-the-manager-application)
+* [22. Enable Tomcat Manager App](#22-enable-tomcat-manager-app)
+* [23. Configure Tomcat Users](#23-configure-tomcat-users)
+* [24. Access the Manager Application](#24-access-the-manager-application)
+* [25. Understanding Host Manager](#25-understanding-host-manager)
+* [26. Enable Host Manager](#26-enable-host-manager)
+* [27. Deploy WAR File Manually](#27-deploy-war-file-manually)
+* [28. Verify Deployment](#28-verify-deployment)
+* [29. Tomcat Log Files](#29-tomcat-log-files)
+* [30. Common Administration Commands](#30-common-administration-commands)
+* [31. Common Mistakes](#31-common-mistakes)
+* [32. Troubleshooting](#32-troubleshooting)
 
 ---
 
@@ -1404,14 +1408,15 @@ ________________________________________________________________________________
 
 # 📖 Table of Contents
 
-* 33. CI/CD Architecture
-* 34. How Jenkins Deploys to Tomcat
-* 35. Prerequisites Checklist
-* 36. Understanding Tomcat Roles
-* 37. Configure `tomcat-users.xml`
-* 38. Verify Manager App
-* 39. Install Deploy to Container Plugin
-* 40. Configure Jenkins Credentials
+* [33. CI/CD Architecture](#33-cicd-architecture)
+* [34. How Jenkins Deploys to Tomcat](#34-how-jenkins-deploys-to-tomcat)
+* [35. Before You Continue – Checklist](#35-before-you-continue--checklist)
+* [36. Understanding Tomcat Roles](#36-understanding-tomcat-roles)
+* [37. Configure `tomcat-users.xml`](#37-configure-tomcat-usersxml)
+* [38. Install Deploy to Container Plugin](#38-install-deploy-to-container-plugin)
+* [39. Configure Jenkins Credentials](#39-configure-jenkins-credentials)
+* [40. Verification Checklist](#40-verification-checklist)
+* [41. Next Part](#41-next-part)
 
 ---
 
@@ -1989,18 +1994,20 @@ ________________________________________________________________________________
 
 # 📖 Table of Contents
 
-* 40. Deployment Workflow
-* 41. Before Creating the Jenkins Job
-* 42. Create a Freestyle Project
-* 43. Configure Git Repository
-* 44. Configure Build Triggers (Optional)
-* 45. Configure Build Environment (Optional)
-* 46. Configure Maven Build
-* 47. Configure Deploy to Container Plugin
-* 48. Build the Job
-* 49. Verify Deployment
-* 50. Understanding Every Deployment Field
-* 51. Common Deployment Mistakes
+* [40. Deployment Workflow](#40-deployment-workflow)
+* [41. Before Creating the Jenkins Job](#41-before-creating-the-jenkins-job)
+* [42. Create a Freestyle Project](#42-create-a-freestyle-project)
+* [43. Configure Git Repository](#43-configure-git-repository)
+* [44. Configure Build Triggers (Optional)](#44-configure-build-triggers-optional)
+* [45. Configure Build Environment (Optional)](#45-configure-build-environment-optional)
+* [46. Configure Maven Build](#46-configure-maven-build)
+* [47. Configure Deploy to Container Plugin](#47-configure-deploy-to-container-plugin)
+* [48. Build the Job](#48-build-the-job)
+* [49. Verify Deployment](#49-verify-deployment)
+* [50. Understanding Every Deployment Field](#50-understanding-every-deployment-field)
+* [51. Common Deployment Mistakes](#51-common-deployment-mistakes)
+* [52. Part 3B Summary](#52-part-3b-summary)
+* [53. Next Part](#53-next-part)
 
 ---
 
@@ -2785,15 +2792,17 @@ ________________________________________________________________________________
 
 # 📖 Table of Contents
 
-* 52. End-to-End CI/CD Workflow
-* 53. Common Deployment Errors
-* 54. Troubleshooting Guide
-* 55. Best Practices
-* 56. Production Recommendations
-* 57. Tomcat Directory Quick Reference
-* 58. Frequently Used Commands
-* 59. Interview Questions
-* 60. Complete Workflow Summary
+* [52. End-to-End CI/CD Workflow](#52-end-to-end-cicd-workflow)
+* [53. Common Deployment Errors](#53-common-deployment-errors)
+* [54. Troubleshooting Guide](#54-troubleshooting-guide)
+* [55. Best Practices](#55-best-practices)
+* [56. Production Recommendations](#56-production-recommendations)
+* [57. Tomcat Directory Quick Reference](#57-tomcat-directory-quick-reference)
+* [58. Frequently Used Commands](#58-frequently-used-commands)
+* [59. Interview Questions](#59-interview-questions)
+* [60. Complete Workflow Summary](#60-complete-workflow-summary)
+* 
+* [Congratulations!](#congratulations)
 
 ---
 
