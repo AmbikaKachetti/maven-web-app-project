@@ -3911,7 +3911,7 @@ Passionate about building scalable DevOps solutions and automating software deli
 
 * **GitHub:** https://github.com/AmbikaKachetti
 * **LinkedIn:** www.linkedin.com/in/ambika-rama-katyayini-k
-* **Email:** ambika9779@gmail.com
+* **Email:** ambika9339@gmail.com
 
 ---
 
