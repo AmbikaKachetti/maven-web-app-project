@@ -33,8 +33,6 @@
 * [16. Configure Firewall (Optional)](#16-configure-firewall-optional)
 * [17. Useful Commands](#17-useful-commands)
 
-* [👨‍💻 Author](#-author)
-
 <!-- Continue with the remaining sections... -->
 
 ---
