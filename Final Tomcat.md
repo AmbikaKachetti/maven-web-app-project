@@ -3909,7 +3909,7 @@ Passionate about building scalable DevOps solutions and automating software deli
 
 ## 📌 Connect with Me
 
-* **GitHub:** https://github.com/ambika-k-devops
+* **GitHub:** https://github.com/AmbikaKachetti
 * **LinkedIn:** www.linkedin.com/in/ambika-rama-katyayini-k
 * **Email:** ambika9779@gmail.com
 
